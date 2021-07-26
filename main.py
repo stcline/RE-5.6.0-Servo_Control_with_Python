@@ -1,14 +1,30 @@
-import time
 import RPi.GPIO as GPIO
-GPIO.setmode(GPIO.BOARD)
+import time
 
-led = 12 # GPIO pin number is 5 and name is GPIO3
+servoPIN = 7
+GPIO.setmode(GPIO.BCM)
+GPIO.setup(servoPIN, GPIO.OUT)
 
-GPIO.setup(led, GPIO.OUT, initial = 0) # Setup LED and set it initially to OFF
-
-while(True):
-        GPIO.output(led, GPIO.HIGH) # Set LED to ON
-        time.sleep(2) # Wait for 2 seconds
-
-        GPIO.output(led, GPIO.LOW) # Set LED to OFF
-        time.sleep(2)
+p = GPIO.PWM(servoPIN, 50) # GPIO 17 for PWM with 50Hz
+p.start(2.5) # Initialization
+try:
+  while True:
+    p.ChangeDutyCycle(5)
+    time.sleep(0.5)
+    p.ChangeDutyCycle(7.5)
+    time.sleep(0.5)
+    p.ChangeDutyCycle(10)
+    time.sleep(0.5)
+    p.ChangeDutyCycle(12.5)
+    time.sleep(0.5)
+    p.ChangeDutyCycle(10)
+    time.sleep(0.5)
+    p.ChangeDutyCycle(7.5)
+    time.sleep(0.5)
+    p.ChangeDutyCycle(5)
+    time.sleep(0.5)
+    p.ChangeDutyCycle(2.5)
+    time.sleep(0.5)
+except KeyboardInterrupt:
+  p.stop()
+  GPIO.cleanup()
