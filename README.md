@@ -17,6 +17,7 @@ If everything is connected properly, your servo should be moving through several
 ## Further Learning:
     To learn more, try this video:
 [![Alt text](https://img.youtube.com/vi/ZgURwWJaOZw/0.jpg)](https://www.youtube.com/watch?v=ZgURwWJaOZw)
+    
     A more detailed and complex application for a servo may be found [here](https://makersportal.com/blog/2020/3/21/raspberry-pi-servo-panning-camera).
     
-**Once you understand how the servo works, complete the assignment ____.
+**Once you understand how the servo works, complete the assignment ____.**
