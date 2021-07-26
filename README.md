@@ -16,4 +16,4 @@ If everything is connected properly, your servo should be moving through several
 
 ## Further Learning:
     To learn more, try this video:
-[![Alt text](https://img.youtube.com/vi/ZgURwWJaOZw/0.jpg)](https://www.youtube.com/watch?v=ZgURwWJaOZw)
+[![Alt text](https://img.youtube.com/vi/ZgURwWJaOZw/76.jpg)](https://www.youtube.com/watch?v=ZgURwWJaOZw)
