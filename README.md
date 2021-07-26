@@ -12,7 +12,7 @@
     2. `cd Raspberry-Pi-Servo-Control`
     3. `sudo python main.py`
     
-If everything is connected properly, your LED should be blinking slowly.  Feel free to mess around with the code a littel if you like.
+If everything is connected properly, your servo should be moving through several positions.  Feel free to mess around with the code a little if you like.
 
 ## How to change GPIO pin:
     Change pin number in this line as per your requirements.
