@@ -14,6 +14,6 @@
     
 If everything is connected properly, your servo should be moving through several positions.  Feel free to mess around with the code a little if you like.
 
-## How to change GPIO pin:
-    Change pin number in this line as per your requirements.
-    `ServoPin = 7 # GPIO pin number is 7 and name is GPIO4`
+## Further Learning:
+    To learn more, try this video:
+[![Alt text](https://img.youtube.com/vi/ZgURwWJaOZw/0.jpg)](https://www.youtube.com/watch?v=ZgURwWJaOZw)
