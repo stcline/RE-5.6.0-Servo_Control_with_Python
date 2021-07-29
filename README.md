@@ -2,6 +2,8 @@
 
 ## 🤓 Overview and learning outcomes 
 
+Servos are incridibly versatile actuators.  Robotic systems requiring precision contol utilize them.  Students will become familiar with the basic operations of a servo motor.
+
 ## Lab Setup
 
 ### Electronics Components
