@@ -33,7 +33,7 @@ Construct the prototype using the diagram below:
     
     `cd RPi_Lab-Servo-Control`
     
-    `sudo python main.py`
+    `sudo python3 main.py`
     
 If everything is connected properly, your servo should be moving through several positions.  Feel free to mess around with the code a little if you like.
 
