@@ -29,7 +29,7 @@ Construct the prototype using the diagram below:
 
 - Get the code and run the script:
 
-    `git clone https://github.com/stcline/RPi_Lab-Servo-Control`
+    `git clone https://github.com/WHS-Robotics-Engineering-2022-23/5-6-0-Servo_Control_with_Python-[your username]``
     
     `cd RPi_Lab-Servo-Control`
     
@@ -51,7 +51,7 @@ Now that you know how the sensor runs and can see how some of the code works, an
 
 1. In what various ways does the servo behave differently than a DC motor?
 2. What makes the use of a servo more complex (remember that if you were controlling a DC motor with a Pi, you would need to write some code)?
-3. What applications do you thin servos are appropriate for?  Explain.
+3. What applications do you think servos are appropriate for?  Explain.
 
 ## 📚  Resources 
 
