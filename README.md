@@ -29,9 +29,9 @@ Construct the prototype using the diagram below:
 
 - Get the code and run the script:
 
-    `git clone https://github.com/WHS-Robotics-Engineering-2022-23/5-6-0-Servo_Control_with_Python-[your username]``
+    `git clone https://github.com/WHS-Robotics-Engineering-2022-23/5-6-0-Servo_Control_with_Python-[your username]`
     
-    `cd RPi_Lab-Servo-Control`
+    `cd 5-6-0-Servo_Control_with_Python`
     
     `sudo python3 main.py`
     
