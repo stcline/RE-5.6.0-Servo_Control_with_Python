@@ -45,7 +45,7 @@ A more detailed and complex application for a servo may be found [here](https://
     
 ## 📝 Next steps (Graded)
 
-Now that you know how the sensor runs and can see how some of the code works, answer the following questions.  Save them in a markdown file in this repo named, "observations.md".  Shoot a video of your working servo using the code you were provided.  Also, modify the code in your own way to change the behavior of the servo in order to demonstrate you understand the coding at a basic level.  Include a video of that as well.
+Now that you know how the sensor runs and can see how some of the code works, answer the following questions.  Save them in a markdown file in this repo named, "observations.md".  Shoot a video of your working servo using the code you were provided.  Also, modify the code in your own way to change the behavior of the servo in order to demonstrate you understand the coding at a basic level. Push that new script to this repo and include a video of that as well in your "observations.md" file.
 
 ### Questions:
 
